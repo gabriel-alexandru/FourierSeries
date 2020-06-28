@@ -5,7 +5,7 @@ This is a simple representation of a mathematical function conceived by the math
 The concept behind it is that it is possible to sum up an infinite number of sine waves and at the end the result will be an approximation of a different wave, like a **Square Wave** or a **Sawtooth Wave**.
 
 The formula of a Fourier Serie is:
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;f(t) = C_0 + \sum_{k = 1}^{\infty}C_k\sin(k \omega t + \varphi_k)" />
+<img src="https://latex.codecogs.com/gif.download?f%28t%29%20%3D%20C_0%20+%20%5Csum_%7Bk%20%3D%201%7D%5E%7B%5Cinfty%7DC_k%5Csin%28k%20%5Comega%20t%20+%20%5Cvarphi_k%29"/>
 
 In the formula the *C<sub>0</sub>* is a constant value. *C<sub>k</sub>* is the coefficient that defines the resulting wave.
 
