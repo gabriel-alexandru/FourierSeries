@@ -15,10 +15,11 @@ In the formula the *C<sub>0</sub>* is a constant value. *C<sub>k</sub>* is the c
 #### What are the coefficients for a Square Wave?
 
 To obtain a Square Wave from the formula above ***C<sub>k</sub>*** need to be calculated with this two formulas:
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;C_k = 0  \quad  \text{if } k \text{ is even} />
+
+<img src="https://latex.codecogs.com/png.latex?C_k%20%3D%200%20%5Cquad%20%5Ctext%7Bif%20%7D%20k%20%5Ctext%7B%20is%20even%7D/>
 
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;C_k = \frac{4A_p}{k\pi} \quad \text{if } k \text{ is odd} />
+<img src="https://latex.codecogs.com/png.latex?C_k%20%3D%20%5Cfrac%7B4A_p%7D%7Bk%5Cpi%7D%20%5Cquad%20%5Ctext%7Bif%20%7D%20k%20%5Ctext%7B%20is%20odd%7D/>
 
 ---
 
