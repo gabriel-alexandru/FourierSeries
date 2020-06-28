@@ -36,7 +36,7 @@ To obtain a Sawtooth Wave from the formula above ***C<sub>k</sub>*** need to be 
 
 #### How is the sketch made?
 
-The sketch is made using the [**p5js library**](p5js.org).
+The sketch is made using the [**p5js library**](https://p5js.org).
 
 To sum the different sine waves I used epicycles where the radius of each of them is the amplitude of each wave. The speed at which they rotate is equivalent to the frequency of that sine wave.
 
