@@ -28,9 +28,9 @@ To obtain a Square Wave from the formula above ***C<sub>k</sub>*** need to be ca
 To obtain a Sawtooth Wave from the formula above ***C<sub>k</sub>*** need to be calculated with this two formulas:
 
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;C_k = \frac{2A_p}{k \pi} \quad \text{if } k \text{ is even} />
+<img src="https://latex.codecogs.com/png.latex?C_k%20%3D%20%5Cfrac%7B2A_p%7D%7Bk%20%5Cpi%7D%20%5Cquad%20%5Ctext%7Bif%20%7D%20k%20%5Ctext%7B%20is%20even%7D" />
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;C_k = \frac{2A_p}{-k \pi} \quad \text{if } k \text{ is odd} />
+<img src="https://latex.codecogs.com/png.latex?C_k%20%3D%20%5Cfrac%7B2A_p%7D%7B-k%20%5Cpi%7D%20%5Cquad%20%5Ctext%7Bif%20%7D%20k%20%5Ctext%7B%20is%20odd%7D" />
 
 ---
 
