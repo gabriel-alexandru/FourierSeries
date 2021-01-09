@@ -44,5 +44,5 @@ The trajectory described by the last epicycle is the resulting wave.
 
 ---
 
-The sketch is available [**here**](https://editor.p5js.org/GabrielAlex/present/haRII4_AY)
+The sketch is available [**here**](https://gabrielalexandru.altervista.org/fourier)
  
